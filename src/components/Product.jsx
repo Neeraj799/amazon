@@ -20,8 +20,8 @@ const Info = styled.div`
 
 const Container = styled.div`
     flex= 1;
-    margin: 5px;
-    min-width: 400px;
+    margin: 20px;
+    min-width: 200px;
     height: 450px;
     display: flex;
     align-items: center;
@@ -40,10 +40,10 @@ const Rectangle = styled.div`
     background-color: white;
     position: absolute;
 `;
+
 const Image = styled.img`
     height: 75%;
     z-index: 2;
-   
 
 `;
 
